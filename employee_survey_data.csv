@@ -1,0 +1,41 @@
+Employee_ID,Department,Location,Tenure_Years,Engagement_Score,Manager_Support,Work_Life_Balance,Career_Growth,Recommend_Company,Survey_Completed
+E001,Sales,Los Gatos,10,5,4,4,3,4,No
+E002,Finance,Los Gatos,6,4,3,4,5,2,No
+E003,Sales,New York,9,2,3,3,5,5,Yes
+E004,Finance,Remote,7,4,5,2,5,2,No
+E005,HR,Los Gatos,5,4,4,2,2,5,Yes
+E006,Technology,Los Gatos,10,5,2,2,4,4,Yes
+E007,Marketing,Los Angeles,9,3,5,4,3,4,No
+E008,Operations,New York,2,5,3,3,3,2,No
+E009,Sales,Los Angeles,3,3,5,2,4,4,No
+E010,Technology,New York,2,4,3,5,3,2,Yes
+E011,Sales,Remote,9,2,2,3,4,2,Yes
+E012,Finance,Los Angeles,4,2,4,2,5,2,No
+E013,Technology,Los Angeles,2,2,3,3,3,3,No
+E014,Sales,Remote,3,3,4,2,5,5,Yes
+E015,Technology,Los Gatos,6,2,5,3,5,4,No
+E016,Marketing,Los Angeles,1,5,3,4,4,4,Yes
+E017,Technology,Remote,4,2,4,2,4,2,Yes
+E018,Marketing,Los Gatos,7,4,5,3,5,2,Yes
+E019,Technology,Los Angeles,2,2,5,3,5,2,Yes
+E020,Finance,Remote,4,5,4,4,3,5,Yes
+E021,Finance,Los Gatos,6,5,5,4,3,5,No
+E022,Technology,Los Angeles,3,2,5,3,4,2,Yes
+E023,Marketing,New York,1,5,2,3,3,2,No
+E024,HR,Los Gatos,2,2,2,2,4,5,No
+E025,Marketing,Remote,8,5,3,5,3,4,No
+E026,Marketing,Los Gatos,4,3,5,5,2,3,Yes
+E027,HR,Los Angeles,9,3,4,2,5,3,Yes
+E028,HR,Los Gatos,2,3,3,4,2,4,Yes
+E029,Sales,Remote,6,3,2,5,3,5,No
+E030,Technology,New York,7,4,2,5,5,5,No
+E031,Finance,Los Gatos,6,3,5,3,4,2,No
+E032,Sales,Los Gatos,4,5,2,5,5,4,Yes
+E033,Finance,New York,3,5,3,3,5,4,No
+E034,Marketing,Los Gatos,2,3,2,4,2,5,Yes
+E035,Sales,New York,4,3,2,2,5,4,No
+E036,HR,Remote,6,3,5,5,5,5,No
+E037,Marketing,Remote,5,4,4,3,4,2,Yes
+E038,Technology,New York,10,3,2,5,2,3,No
+E039,Technology,Remote,1,3,3,2,4,2,No
+E040,Operations,Los Gatos,4,5,2,3,3,2,No
